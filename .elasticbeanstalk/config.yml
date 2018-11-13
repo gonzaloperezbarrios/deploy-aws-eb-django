@@ -8,7 +8,7 @@ environment-defaults:
 global:
   application_name: AdminDjangoQA
   branch: develop
-  default_ec2_keyname: KeyEnviosExitoQA
+  default_ec2_keyname: KeyQA
   default_platform: Python 3.6
   default_region: us-east-1
   include_git_submodules: true
